@@ -1,0 +1,56 @@
+{
+    "title": "Bienvenue à Sidi Bou Said 🤍 ",
+    "body":"Sidi Bou Said, Une merveille 🧿! ",
+    "press":"Appuyez ici !!",
+    "btnStart":" Commencer",
+
+    "Home":"Accueil",
+    "History":"Historique",
+    "Rate":"Avis",
+    "cmt":"Commentaire",
+
+    "settings": "Paramètres",
+    "account":"Compte",
+    "yourAcc":"Votre compte",
+    "general":"Générale",
+    "lang":"Langue",
+    "language":"Francais",
+    "dark":"Mode Sombre",
+    "help":"Aide ?",
+
+    "setAccount":"Configuration compte",
+    "photo": "photo",
+    "uploadImg":"Importer Image",
+    "pwd":"Changer Mot de passe",
+    "current":"Mot de passe actuel",
+    "new":"Nouveau Mot de passe",
+    "update":"Modifier",
+
+    "learn":"En savoir plus sur Sidi Bou Said 👋!",
+    "description":"Sidi Bou Saïd (arabe : سيدي بو سعيد Sīdi Bū Sʻīdⓘ) est une ville du nord de la Tunisie située à environ 20 km au nord-est de la capitale, Tunis. Café de délice et vue sur la côte Nommé d'après un personnage religieux qui y vivait, Abu Said al-Baji, il s'appelait auparavant Jabal el-Menar. La ville elle-même est une attraction touristique et est connue pour son utilisation intensive du bleu et du blanc. On y accède par un train TGM, qui relie Tunis à La Marsa. Au XIIe/XIIIe siècle après JC, Abu Said Ibn Khalaf Yahya al-Tamimi al-Beji arriva dans le village de Jabal el-Menar et y établit un sanctuaire. Après sa mort en 1231, il y fut enterré. Au XVIIIe siècle, les riches citoyens de Tunis construisirent des résidences à Sidi Bou Said. Dans les années 1920, Rodolphe d'Erlanger introduit le thème bleu-blanc dans la ville. Sa maison, Ennejma Ezzahra, est aujourd'hui un musée qui possède une collection d'instruments de musique et organise des concerts de musique classique et arabe.",
+    "btnPlay":"Appuyez pour jouer!",
+    "videos":"Regarder les vidéos",
+
+    "discover":"Découvrir Sidi Bou Said 🤍!",
+    "network":"Réseau",
+    "asset": "Asset",
+    "quizz":"Commencer le Quizz",
+
+    "rate":"Évaluez notre application ⭐ !",
+    "slide": "Glissez pour évaluer",
+    "btnRate":"Envoyer",
+    "thanks":"Merci pour votre évaluation!",
+    "error":"Oups ! une erreur s'est produite, veuillez réessayer!",
+
+    "comment":"Laissez un commentaire 🙏🏻  !",
+    "listen":"En écoute ...",
+    "tapMic":"Tapez sur le micro pour écouter...",
+    "notAvailable":"Discours non disponible",
+    "yourCmt":"Votre commentaire ici ...",
+
+    "Quizz":"A manger",
+    "places": "Lieux"
+
+
+
+}

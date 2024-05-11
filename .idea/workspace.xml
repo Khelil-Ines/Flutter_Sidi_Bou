@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73e6016c-00ff-4991-a1a0-0b718b8ba2d6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/android/app/src/main/res/drawable-hdpi/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/android/app/src/main/res/drawable-hdpi/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/android/app/src/main/res/drawable-mdpi/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/android/app/src/main/res/drawable-mdpi/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/android/app/src/main/res/drawable-v21/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/android/app/src/main/res/drawable-v21/background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/android/app/src/main/res/drawable-xhdpi/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/android/app/src/main/res/drawable-xhdpi/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/android/app/src/main/res/drawable-xxhdpi/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/android/app/src/main/res/drawable-xxhdpi/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/android/app/src/main/res/drawable-xxxhdpi/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/android/app/src/main/res/drawable-xxxhdpi/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/android/app/src/main/res/drawable/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/android/app/src/main/res/drawable/background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/assets/localization/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/assets/localization/en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/assets/localization/fr.json" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/assets/localization/fr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/ios/Runner/Assets.xcassets/LaunchBackground.imageset/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/ios/Runner/Assets.xcassets/LaunchBackground.imageset/background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/lib/ForgotPass.dart" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/lib/ForgotPass.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/lib/HomeScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/lib/HomeScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/lib/LoginScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/lib/LoginScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/lib/QuizzScreens/QuizzHome.dart" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/lib/QuizzScreens/QuizzHome.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/lib/QuizzScreens/QuizzMarabouts.dart" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/lib/QuizzScreens/QuizzMarabouts.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/lib/QuizzScreens/QuizzPlace.dart" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/lib/QuizzScreens/QuizzPlace.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/lib/QuizzScreens/QuizzQuestion.dart" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/lib/QuizzScreens/QuizzQuestion.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/lib/SignupScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/lib/SignupScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/lib/SplashScreen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/lib/VideoPlayerPage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/lib/VideoPlayerPage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/lib/settings/set_account.dart" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/lib/settings/set_account.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/web/splash/img/dark-1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/web/splash/img/dark-1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/web/splash/img/dark-2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/web/splash/img/dark-2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/web/splash/img/dark-3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/web/splash/img/dark-3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/web/splash/img/dark-4x.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/web/splash/img/dark-4x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/web/splash/img/light-1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/web/splash/img/light-1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/web/splash/img/light-2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/web/splash/img/light-2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/web/splash/img/light-3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/web/splash/img/light-3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidi_bou/web/splash/img/light-4x.png" beforeDir="false" afterPath="$PROJECT_DIR$/sidi_bou/web/splash/img/light-4x.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2fXZgVL1C1FaAbgRy1wigclT30b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;home__page&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Calcul_fac&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73e6016c-00ff-4991-a1a0-0b718b8ba2d6" name="Changes" comment="" />
+      <created>1713949497852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713949497852</updated>
+    </task>
+    <servers />
+  </component>
+</project>

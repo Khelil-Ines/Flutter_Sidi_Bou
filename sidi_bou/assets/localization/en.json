@@ -1,0 +1,55 @@
+{ 
+    "title": "Welcome to Sidi Bou Said 🤍 !",
+    "body":"Sidi Bou Said, THE place to be 🧿!",
+    "press":"Press Here ",
+    "btnStart":" Get Started",
+
+    "Home":"Home",
+    "History":"History", 
+    "Settings":"Settings",
+    "Rate":"Rate",
+    "cmt":"Leave a comment",
+
+    "settings": "Settings",
+    "account":"account",
+    "yourAcc":"Your Account",
+    "general":"General",
+    "lang":"Language",
+    "language":"English",
+    "dark":"Dark Mode",
+    "help":"Help",
+
+    "setAccount":"Set Account",
+    "photo": "photo",
+    "uploadImg":"Upload Image",
+    "pwd":"Change Password",
+    "current":"Current Password",
+    "new":"New Password",
+    "update":"Update Password",
+
+    "learn":"Learn more about Sidi Bou Said 👋 !",
+    "description":"Sidi Bou Said (Arabic: سيدي بو سعيد Sīdi Bū Sʻīd) is a town in northern Tunisia located about 20 km northeast from the capital, Tunis. Cafe de delice and coast view Named after a religious figure who lived there, Abu Said al-Baji, it was previously called Jabal el-Menar. The town itself is a tourist attraction and is known for its extensive use of blue and white. It can be reached by a TGM train, which runs from Tunis to La Marsa. In the 12th century/13th century AD Abu Said Ibn Khalaf Yahya al-Tamimi al-Beji arrived in the village of Jabal el-Menar and established a sanctuary. After his death in 1231, he was buried there. In the 18th century wealthy citizens of Tunis built residences in Sidi Bou Said. During the 1920s, Rodolphe d'Erlanger introduced the blue-white theme to the town. His home, Ennejma Ezzahra, is now a museum that has a collection of musical instruments, and organizes concerts of classical and Arabic music",
+    "btnPlay":"Press to play!",
+    "videos":"Watch Videos",
+
+    "discover":"Discover Sidi Bou Said 🤍!",
+    "network":"Network",
+    "asset": "Asset",
+    "quizz":"Start Quizz",
+
+    "rate":"Rate our App ⭐ !",
+    "slide": "slide to select rating",
+    "btnRate":"Submit",
+    "thanks":"Thank you for your rating!",
+    "error":"Ooops! an error accured, please try again!",
+    
+    "comment":"Leave a comment 🙏🏻  !",
+    "listen":"listening ...",
+    "tapMic":"Tap the microphone to start listening...",
+    "notAvailable":"Speech not available",
+    "yourCmt":"Your comment here ...",
+
+    "Quizz":"Food",
+    "places": "Places"
+
+}
